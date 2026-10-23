@@ -1,3 +1,9 @@
+# Versão atual: V6 sem sons de pop-up
+
+AtalhoCred-video-v6-sem-popup.mp4: 37,2 segundos, apresentador na abertura e motion no restante. Nova trilha contínua mais discreta, sem efeitos de notificação e sem os sons de transição anteriores. Vozes disponíveis preservadas. Projeto completo: AtalhoCred-projeto-editavel-v6.zip.
+
+---
+
 # V5 — teste com apresentador na abertura
 
 Usar AtalhoCred-video-v5-teste-apresentador.mp4 para avaliar o teste. Duração: 37,2 s. A abertura usa o clipe Flow e seu áudio; o restante mantém os gráficos e a locução ElevenLabs. Ainda não há apresentador na solução ou no fechamento. O projeto atualizado está em AtalhoCred-projeto-editavel-v5.zip.
