@@ -1,3 +1,9 @@
+# V5 — teste com apresentador na abertura
+
+Usar AtalhoCred-video-v5-teste-apresentador.mp4 para avaliar o teste. Duração: 37,2 s. A abertura usa o clipe Flow e seu áudio; o restante mantém os gráficos e a locução ElevenLabs. Ainda não há apresentador na solução ou no fechamento. O projeto atualizado está em AtalhoCred-projeto-editavel-v5.zip.
+
+---
+
 # Versão atual: V4 sem “Representação ilustrativa”
 
 O vídeo V4 mantém a voz e sincronização da V3, removendo o rótulo dos quatro cards. Ainda não contém apresentador animado. O plano de integração está em AVATAR_INTEGRACAO.md e os prompts em FLOW_PROMPTS.md. AtalhoCred-voz-para-avatar.wav contém a voz sem música.
