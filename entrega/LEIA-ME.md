@@ -1,3 +1,11 @@
+# Versão atual: V4 sem “Representação ilustrativa”
+
+O vídeo V4 mantém a voz e sincronização da V3, removendo o rótulo dos quatro cards. Ainda não contém apresentador animado. O plano de integração está em AVATAR_INTEGRACAO.md e os prompts em FLOW_PROMPTS.md. AtalhoCred-voz-para-avatar.wav contém a voz sem música.
+
+Arquivos atuais: AtalhoCred-video-v4-sem-rotulo.mp4 e AtalhoCred-projeto-editavel-v4.zip.
+
+---
+
 # AtalhoCred — versão atual: V3 sincronizada
 
 - **AtalhoCred-video-v3-sincronizado.mp4**: vídeo de 36 segundos, com voz, trilha dinâmica e sincronização corrigida.
