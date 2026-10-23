@@ -1,19 +1,17 @@
-# AtalhoCred — arquivos para download
+# AtalhoCred — versão atual: V3 sincronizada
 
-## Versão atual: V2
+- **AtalhoCred-video-v3-sincronizado.mp4**: vídeo de 36 segundos, com voz, trilha dinâmica e sincronização corrigida.
+- **AtalhoCred-projeto-editavel-v3.zip**: projeto atualizado, áudios, legendas, instruções e relatório de sincronização.
+- **AtalhoCred-legendas-v3.srt**: legendas separadas.
 
-- **AtalhoCred-video-v2.mp4**: 36 segundos, 1080 × 1920, H.264/AAC, com a voz fornecida pelo cliente, trilha original mais dinâmica a 116 BPM e legendas ajustadas à gravação.
-- **AtalhoCred-projeto-editavel-v2.zip**: projeto React/Remotion atualizado, fontes, áudios, legendas e instruções.
-- **AtalhoCred-legendas-v2.srt**: legendas separadas.
+A V3 corrige a diferença de tempo identificada na V2. A voz é processada em um relógio fixo de amostras, e as legendas acompanham as frases medidas na faixa final. Os cards foram antecipados para acompanhar a narração. A checagem do áudio exportado não detectou deslocamento em cinco pontos do filme.
 
-A voz foi ajustada para 88% de velocidade, preservando o tom. A música é reduzida automaticamente durante a fala. Revisar pronúncia, ritmo e sincronização fina antes de veicular.
+## Baixar no computador
 
-## Como baixar no computador
-
-Abra o arquivo e use **Download raw file** (ícone de download) no canto superior direito. O vídeo pode não ser reproduzido na página; faça o download para assistir. Se o repositório exigir login, entre na sua conta GitHub.
+Abra o arquivo e clique em **Download raw file** (ícone de download). Se o vídeo não for reproduzido no GitHub, baixe para assistir no computador. Entre na sua conta se o repositório exigir autenticação.
 
 ## Histórico
 
-Os arquivos com **v1** e o ZIP sem sufixo de versão são a primeira versão de 42 segundos, ainda sem locução. Mantidos para comparação.
+V1: versão sem locução. V2: versão anterior com voz; substituída pela V3 devido à sincronização. Use os arquivos com **v3** para revisar ou editar.
 
-A assinatura da marca foi composta em Figtree conforme os pesos e as cores informados. Configurar https://atalhocred.com.br como destino do anúncio.
+CTA do anúncio: https://atalhocred.com.br. A assinatura da marca é tipográfica em Figtree, conforme os pesos e as cores informados.
